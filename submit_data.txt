@@ -1,0 +1,7 @@
+547238597329574329573252
+heyjoifdjof
+dqr4oi1jfo1j
+
+This file contains the Task ID, username and password
+last used when submitting a solution.
+This file is used when you call cs.au.dk.Submit.submit() with no arguments.
